@@ -32,6 +32,14 @@
 $ yarn install
 ```
 
+## YT Tutorial
+
+[Nestjs Series](https://www.youtube.com/results?search_query=configService+Nestjs)
+
+## To understand ENV set up and validation
+
+[Click here](https://www.youtube.com/watch?v=TkALNF0mrK0)
+
 ## Compile and run the project
 
 ```bash
